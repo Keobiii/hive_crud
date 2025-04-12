@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hive_crud/pages/LoginScreen.dart';
-import 'package:hive_crud/pages/SignUpScreen.dart';
+import 'package:hive_crud/screens/LoginScreen.dart';
+import 'package:hive_crud/screens/SignUpScreen.dart';
 
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {

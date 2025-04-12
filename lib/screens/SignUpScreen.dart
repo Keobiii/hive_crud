@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hive_crud/pages/LoginScreen.dart';
+import 'package:hive_crud/screens/LoginScreen.dart';
 import 'package:hive_crud/widget/gradient_button.dart';
 import 'package:hive_crud/widget/login_field.dart';
 
